@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "46803544fa14cc5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dcf5f2fd615c225",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9b1057a70df9f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/JSON.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fec021d03f102a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce1d81cb7d44c207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dally notes/Be verb.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0c42fb3282c5396",
+    "type": "split",
+    "children": [
+      {
+        "id": "5943aa5d0ab5866c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b30ff8490f6c54c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "37c82b29732f1cbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99c7012486fd259d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e824ce36443e9ce6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0362c49be25767e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3995fb110519c43c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c49e7cc1d08618d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dally notes/Be verb.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "395db2cb5bd9bda9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dally notes/Be verb.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9170b03ffdcef3c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4008398c1c24e7c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dally notes/Be verb.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": false
+    }
+  },
+  "active": "ce1d81cb7d44c207",
+  "lastOpenFiles": [
+    "Dally notes/Actionless sentence.md",
+    "Dally notes/Be verb.md",
+    "Dally notes/Action verb/do, does.md",
+    "Dally notes/Action verb/Untitled 1.md",
+    "Dally notes/Action verb",
+    "Exam.md",
+    "Pasted image 20231120122700.png",
+    "JavaScript/JSON.md",
+    "JavaScript/Regular Expressions.md",
+    "DBMS/Constraints.md",
+    "DBMS/HAVING VS WHERE.md",
+    "DBMS/MySQL Queries.md",
+    "DBMS/Types Of Query.md",
+    "DBMS/Set Operations.md",
+    "DBMS/WHAT IS DATABASE.md",
+    "DBMS/MySQL Subquery.md",
+    "DBMS/What is JOINS.md",
+    "DBMS/Joining Tables without using JOIN Query.md",
+    "DBMS/Common Table Expressions.md",
+    "DBMS/Joins",
+    "JavaScript/JavaScript object.md",
+    "DBMS/ALTER TABLE.md",
+    "DBMS/Aggregate Function.md",
+    "DBMS/GROUP BY.md",
+    "Untitled.canvas",
+    "aggregate functions.md",
+    "[[WHAT.md",
+    "JavaScript",
+    "template/tamplate.md",
+    "computer.md",
+    ".md",
+    "Spaces/Home",
+    "Spaces",
+    "template",
+    "Dally notes",
+    "DBMS",
+    "fdkfhd"
+  ]
+}
